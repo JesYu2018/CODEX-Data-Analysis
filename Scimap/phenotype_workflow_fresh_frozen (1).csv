@@ -1,0 +1,10 @@
+;;CD68;SMA;Podoplanin;CD34;CD107a;Ki67;CLDN17;Keratin5;HLA-DR
+all;myCAFs;;pos;;;;;;;
+all;myCAFs;;;pos;;;;;;
+all;Endothelial cells;;;;pos;;;;;
+all;basal tumor cells;;;;;;;;pos;
+Immune;CD8+ T or NK cells;;;;;pos;;;;
+Immune;Macrophages;pos;;;;;;;;
+all;APC;;;;;;;;;pos
+all;Proliferating;;;;;;pos;;;
+all;classical tumor cells;;;;;;;pos;;

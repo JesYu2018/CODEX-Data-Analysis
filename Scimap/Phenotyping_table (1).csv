@@ -1,0 +1,15 @@
+;;SOX2;FAP;cxcr3;LRRC15;CD20;CD68;CD45RO;CD31;PD-1;Ki67;Keratin 5;CD4;IFNG;SMA;CD66;Podoplanin;CXCR4;PGRN;Granzyme B;Pan-Cytokeratin;MARCO;CD56;HAS1;CD107a;b-Catenin1;HLA-A;HLA-DR;CD8;PDL1;TP63;GATA6;CD34;TCF-1;Bcl-2;PCNA;CLDN18;CD3e;MCT4;LAG3
+all;Tumor (Classical);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;anypos;;;;;anypos;;;
+all;Tumor (Basal);;;;;;;;;;;anypos;;;;;;;;;;;;;;;;;;;anypos;;;;;;;;;
+all;CAF (myCAF);;anypos;;anypos;;;;;;;;;;anypos;;anypos;;;;;;;;;;;;;;;;;;;;;;;
+all;CAF (iCAF);;;;;;;;;;;;;;;;;anypos;;;;;;anypos;;;;;;;;;;;;;;;;
+all;Endothelial;;;;;;;;pos;;;;;;;;;;;;;;;;;;;;;;;;pos;;;;;;;
+all;Epithelial;;;;;;;;;;;;;;;;;;;;pos;;;;;;;;;;;;;;;;;;;
+Immune;M1 Macrophage;;;;;;pos;;;;;;;pos;;;;;;;;;;;;;;;;;;;;;;;;;;
+Immune;M2 Macrophage;;;;;;pos;;;;;;;;;;;;pos;;;pos;;;;;;;;;;;;;;;;;;
+Immune;Helper T;;;;;;;;;;;;anypos;;;;;;;;;;;;;;;;neg;;;;;;;;;pos;;
+Immune;Cytotoxic T;;;;;;;;;;;;neg;;;;;;;pos;;;;;;;;;anypos;;;;;pos;;;;pos;;
+Immune;NK Cell;;;;;;;;;;;;;;;;;;;;;;anypos;;anypos;;;;neg;;;;;;;;;;;
+Immune;B Cell;;;;;pos;;;;;;;;;;;;;;pos;;;;;;;;;;;;;;;;;;;;
+Other;DC;;;;;;;;;;;;;;;;;;;;;;;;;;;pos;;;;;;;;;;;;
+Other;Proliferating;;;;;;;;;;anypos;;;;;;;;;;;;;;;;;;;;;;;;;anypos;;;;
